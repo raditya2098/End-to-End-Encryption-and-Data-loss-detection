@@ -1,0 +1,1 @@
+generating a digital signature. The digital signature can be used to verify the authenticity of the surrounding. It can check if the user is the one who created the respective file. The Digital Signature Algorithm (DSA) is used for implementing this.
